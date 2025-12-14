@@ -114,6 +114,10 @@ Files are saved with prefix: `Apomorphine_PostInj_30min_Dose0.50_YYYY-MM-DD_HH-m
 - Calibration relies on animal exploring the entire arena for accurate scaling.
 - Rotational analysis assumes movement around the arena center.
 
+## Key Differences Between the Two Scripts
+
+<img width="977" height="600" alt="image" src="https://github.com/user-attachments/assets/980e9c2b-930b-4887-9aa6-2ae0e972f79b" />
+
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
